@@ -17,3 +17,16 @@ That sucks. That's an unnecessary waste of time (which is crucial in Champion Se
 RuneBook.
 
 *Continues...*
+
+# Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:9080
+npm run dev
+
+# build electron application for production
+npm run build
+```

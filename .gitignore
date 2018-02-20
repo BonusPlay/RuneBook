@@ -1,6 +1,2 @@
 node_modules/
-dist/
-colors.txt
-yarn-error.log
-resources/
-logs/
+.idea/
